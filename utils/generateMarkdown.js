@@ -35,7 +35,7 @@ This project is licensed under the [${license}](${renderLicenseLink(
   }
 }
 
-// TODO: Create a function to generate markdown for README
+//function to generate markdown for README
 function generateMarkdown(asnwers) {
   const {
     title,
@@ -89,4 +89,5 @@ ${tests}
 `;
 }
 
+//exporting the generate mardown function
 module.exports = generateMarkdown;
