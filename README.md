@@ -2,6 +2,10 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+## Video Demo
+
+[View Video](https://www.youtube.com/watch?v=gUCt25P4PiY&ab_channel=PradeepKhanal)
+
 ## Table of Contents
 
 - [Description](#description)
@@ -67,8 +71,6 @@ To use this project, follow these steps:
 
 4. **Repeat as Needed**:
    - You can repeat the process to generate multiple README files for different projects or iterations.
-
-This project simplifies the process of creating README files for your projects by automating the generation process. Enjoy using it to document your projects effectively!
 
 ## License
 
