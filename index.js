@@ -181,7 +181,7 @@ const questions = [
 //function to write README file
 function writeToFile(createdFile) {
   console.log("Creating markdown file.....");
-  fs.writeFile("./generatedMd.md", createdFile, (error) => {
+  fs.writeFile("./sample-markdown.md", createdFile, (error) => {
     error
       ? console.log(colors.bgRed(error))
       : console.log(colors.bgGreen("markdown file successfully created!!!"));
@@ -191,7 +191,6 @@ function writeToFile(createdFile) {
 //function to initialize app
 function init() {
   inquirer.prompt(questions).then((answers) => {
-    console.log(answers);
     let readme = generateMarkdown(answers);
     writeToFile(readme);
   });

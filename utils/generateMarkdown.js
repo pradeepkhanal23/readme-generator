@@ -84,8 +84,7 @@ ${contribution}
 ${tests}
 
 ## Questions
-- For additional questions, contact [${githubUsername}](https://github.com/${githubUsername})
-- For additional questions, email [${email}](mailto:${email})
+- For additional questions, contact [${githubUsername}](https://github.com/${githubUsername}) OR Email [${email}](mailto:${email})
 `;
 }
 
