@@ -54,11 +54,6 @@ function generateMarkdown(asnwers) {
 
 ${renderLicenseBadge(liscence)}
 
-## Description
-${description}.
-
-
-
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -67,6 +62,10 @@ ${description}.
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+
+## Description
+${description}.
+
 
 ## Installation
 ${instructions}.
