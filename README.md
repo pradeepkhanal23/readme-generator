@@ -4,7 +4,7 @@
 
 ## Video Demo
 
-[Readme Generator](https://www.youtube.com/watch?v=gUCt25P4PiY&ab_channel=PradeepKhanal)
+[Readme Generator](https://youtu.be/YYBWVCgFsT4)
 
 ## Table of Contents
 
